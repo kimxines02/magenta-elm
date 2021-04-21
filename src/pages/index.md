@@ -18,9 +18,7 @@ sections:
     title: Hallbrook Design
     subtitle: >-
       We at Hallbrook Design believe in good design, being the tool to improve
-      your overall business. Good Design will give you products that sell and
-      give your customers better performance, saves money, better for the
-      environment, uses less energy.
+      your overall business.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
