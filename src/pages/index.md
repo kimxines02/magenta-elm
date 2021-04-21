@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Good design will give you products that sell
+    title: Good Design will give you products that sell
     content: |
       Give your customers better performance, saves money, 
     actions:
