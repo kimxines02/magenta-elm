@@ -6,8 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Good Design will give you products that sell
-    content: |
-      Give your customers better performance, saves money, 
+    content: >
+      Give your customers better performance, saves money, better for the
+      environment uses less energy 
     actions:
       - label: Learn More
         url: /features
