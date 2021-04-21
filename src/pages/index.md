@@ -17,8 +17,10 @@ sections:
     background: gray
     title: Hallbrook Design
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We at Hallbrook Design believe in good design, being the tool to improve
+      your overall business. Good Design will give you products that sell and
+      give your customers better performance, saves money, better for the
+      environment, uses less energy.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
