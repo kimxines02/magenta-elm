@@ -95,7 +95,7 @@ sections:
     title: Get a call back!
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
+      - label: SHOP NOW
         url: /signup
         style: primary
 seo:
