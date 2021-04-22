@@ -83,8 +83,8 @@ sections:
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          The packaging material, strap, film, paper, should in itself be made
+          from reusable, be reusable or produced from biomass
   - section_id: call-to-action
     type: section_cta
     title: Get a call back!
