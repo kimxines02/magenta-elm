@@ -77,9 +77,7 @@ sections:
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin, vel posuere justo laoreet.
       - avatar_alt: lorem-ipsum
-        content: >-
-          Zero energy use in being ready for use. We only use energy directly to
-          do the process, no more, no less.
+        content: Any part should be as light as possible saving energy in moving it.
         type: review_item
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
