@@ -81,8 +81,8 @@ sections:
       - author: lorem-ipsum
         avatar_alt: lorem-ipsum
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Zero energy use in being ready for use. We only use energy directly to
+          do the process, no more, no less.
         type: review_item
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
