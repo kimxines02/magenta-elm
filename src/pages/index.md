@@ -75,8 +75,8 @@ sections:
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Zero energy use in being ready for use. We only use energy directly to
+          do the process, no more, no less.
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
