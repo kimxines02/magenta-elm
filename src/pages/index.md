@@ -96,7 +96,8 @@ sections:
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: SHOP NOW
-        url: /signup
+        url: >-
+          https://sal-tech.com/en/14-e3hallbrook-pallet-wrap-ergonomical-solutions
         style: primary
 seo:
   title: Stackbit Azimuth Theme
