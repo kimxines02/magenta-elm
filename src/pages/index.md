@@ -78,8 +78,7 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin, vel posuere justo laoreet.
-      - author: lorem-ipsum
-        avatar_alt: lorem-ipsum
+      - avatar_alt: lorem-ipsum
         content: >-
           Zero energy use in being ready for use. We only use energy directly to
           do the process, no more, no less.
