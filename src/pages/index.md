@@ -99,6 +99,7 @@ sections:
         url: >-
           https://sal-tech.com/en/14-e3hallbrook-pallet-wrap-ergonomical-solutions
         style: primary
+        new_window: true
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
