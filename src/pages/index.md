@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/blue-plankton.png
     image_alt: App preview
     title: Good Design will give you products that sell
     content: >
