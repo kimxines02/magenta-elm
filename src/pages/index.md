@@ -71,8 +71,7 @@ sections:
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales.
     reviews:
-      - avatar: images/review2.jpg
-        avatar_alt: Parsley Montana's photo
+      - avatar_alt: Parsley Montana's photo
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
