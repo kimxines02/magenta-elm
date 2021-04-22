@@ -79,8 +79,7 @@ sections:
       - avatar_alt: lorem-ipsum
         content: Any part should be as light as possible saving energy in moving it.
         type: review_item
-      - author: Jonquil Von Haggerston
-        avatar: images/review3.jpg
+      - avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           The packaging material, strap, film, paper, should in itself be made
